@@ -9,6 +9,7 @@
 | [0605-can-place-flowers](https://github.com/vawnthais/Leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/vawnthais/Leetcode-solution/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/vawnthais/Leetcode-solution/tree/master/0739-daily-temperatures) |
+| [1046-last-stone-weight](https://github.com/vawnthais/Leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vawnthais/Leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vawnthais/Leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vawnthais/Leetcode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -57,4 +58,8 @@
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vawnthais/Leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vawnthais/Leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/vawnthais/Leetcode-solution/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
