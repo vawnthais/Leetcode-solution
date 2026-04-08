@@ -8,7 +8,8 @@ public:
         priority_queue<vector<int>, vector<vector<int>>, decltype(cmp)> pd(cmp);
 
         vector<vector<int>> result;
-        for (int i = 0; i < nums1.size(); i++) {
+        int n1 = nums1.size();
+        for (int i = 0; i < min(n1, k); i++) {
             pd.push({nums1[i] + nums2[0], i, 0});
         }
         while (k-- > 0  && !pd.empty()) {
