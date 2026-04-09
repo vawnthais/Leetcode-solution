@@ -11,6 +11,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/vawnthais/Leetcode-solution/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/vawnthais/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/vawnthais/Leetcode-solution/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/vawnthais/Leetcode-solution/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vawnthais/Leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vawnthais/Leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vawnthais/Leetcode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -64,4 +65,5 @@
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vawnthais/Leetcode-solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/vawnthais/Leetcode-solution/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/vawnthais/Leetcode-solution/tree/master/1354-construct-target-array-with-multiple-sums) |
 <!---LeetCode Topics End-->
