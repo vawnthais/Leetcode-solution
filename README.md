@@ -22,6 +22,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vawnthais/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vawnthais/Leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/vawnthais/Leetcode-solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vawnthais/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0636-exclusive-time-of-functions](https://github.com/vawnthais/Leetcode-solution/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/vawnthais/Leetcode-solution/tree/master/0739-daily-temperatures) |
@@ -71,5 +72,6 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/vawnthais/Leetcode-solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vawnthais/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
