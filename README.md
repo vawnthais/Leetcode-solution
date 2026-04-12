@@ -15,6 +15,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vawnthais/Leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vawnthais/Leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vawnthais/Leetcode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1670-design-front-middle-back-queue](https://github.com/vawnthais/Leetcode-solution/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vawnthais/Leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vawnthais/Leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
 ## Stack
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vawnthais/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+| [1670-design-front-middle-back-queue](https://github.com/vawnthais/Leetcode-solution/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vawnthais/Leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vawnthais/Leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
@@ -74,4 +76,17 @@
 | ------- |
 | [0155-min-stack](https://github.com/vawnthais/Leetcode-solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vawnthais/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+| [1670-design-front-middle-back-queue](https://github.com/vawnthais/Leetcode-solution/tree/master/1670-design-front-middle-back-queue) |
+## Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/vawnthais/Leetcode-solution/tree/master/1670-design-front-middle-back-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/vawnthais/Leetcode-solution/tree/master/1670-design-front-middle-back-queue) |
+## Data Stream
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/vawnthais/Leetcode-solution/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
