@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vawnthais/Leetcode-solution/tree/master/0015-3sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vawnthais/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vawnthais/Leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vawnthais/Leetcode-solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -53,6 +54,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vawnthais/Leetcode-solution/tree/master/0015-3sum) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vawnthais/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/vawnthais/Leetcode-solution/tree/master/1670-design-front-middle-back-queue) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/vawnthais/Leetcode-solution/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
