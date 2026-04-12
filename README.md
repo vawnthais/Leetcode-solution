@@ -22,6 +22,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vawnthais/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vawnthais/Leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/vawnthais/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0636-exclusive-time-of-functions](https://github.com/vawnthais/Leetcode-solution/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/vawnthais/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vawnthais/Leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
@@ -58,6 +59,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vawnthais/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vawnthais/Leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vawnthais/Leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
@@ -66,4 +68,8 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vawnthais/Leetcode-solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/vawnthais/Leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/vawnthais/Leetcode-solution/tree/master/1354-construct-target-array-with-multiple-sums) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vawnthais/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
