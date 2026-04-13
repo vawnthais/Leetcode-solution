@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/vawnthais/Leetcode-solution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vawnthais/Leetcode-solution/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/vawnthais/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vawnthais/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vawnthais/Leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vawnthais/Leetcode-solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0015-3sum](https://github.com/vawnthais/Leetcode-solution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vawnthais/Leetcode-solution/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/vawnthais/Leetcode-solution/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
