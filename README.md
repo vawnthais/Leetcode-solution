@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vawnthais/Leetcode-solution/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/vawnthais/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vawnthais/Leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vawnthais/Leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vawnthais/Leetcode-solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -59,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vawnthais/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vawnthais/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 ## Queue
 |  |
@@ -95,4 +97,9 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vawnthais/Leetcode-solution/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/vawnthais/Leetcode-solution/tree/master/0049-group-anagrams) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/vawnthais/Leetcode-solution/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
