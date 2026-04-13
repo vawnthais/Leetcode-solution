@@ -7,6 +7,7 @@ public:
             return a[0] < b[0]; });
 
         for (auto& interval : intervals) {
+            if (!ans.empty() && interval[1] <= ans.back()[1]) continue;
             if (ans.empty() || ans.back()[1] < interval[0]) {
                 ans.push_back(interval);
             } else {
