@@ -63,6 +63,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/vawnthais/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vawnthais/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0520-detect-capital](https://github.com/vawnthais/Leetcode-solution/tree/master/0520-detect-capital) |
 ## Queue
 |  |
 | ------- |
