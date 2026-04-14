@@ -106,4 +106,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vawnthais/Leetcode-solution/tree/master/0049-group-anagrams) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/vawnthais/Leetcode-solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
