@@ -2,11 +2,10 @@
 class Solution {
 public:
    string maskPII(string s) {
-      int ind = s.find('@');
-      if (ind != string::npos) { 
+      if (s.find('@') != string::npos) { 
          if (s[0] == '.' or s.back() == '.') return s;
          for (char &c : s) c = tolower(c);
-         return string(1, s[0]) + "*****" + s.substr(ind -1);
+         return string(1, s[0]) + "*****" + s.substr(s.find('@') -1);
       }
 
       string new_s = "";
