@@ -63,6 +63,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/vawnthais/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vawnthais/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/vawnthais/Leetcode-solution/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/vawnthais/Leetcode-solution/tree/master/0520-detect-capital) |
 | [0831-masking-personal-information](https://github.com/vawnthais/Leetcode-solution/tree/master/0831-masking-personal-information) |
 ## Queue
@@ -118,4 +119,8 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vawnthais/Leetcode-solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/vawnthais/Leetcode-solution/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vawnthais/Leetcode-solution/tree/master/1757-recyclable-and-low-fat-products) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vawnthais/Leetcode-solution/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
