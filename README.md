@@ -92,6 +92,7 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vawnthais/Leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0147-insertion-sort-list](https://github.com/vawnthais/Leetcode-solution/tree/master/0147-insertion-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/vawnthais/Leetcode-solution/tree/master/0328-odd-even-linked-list) |
 | [1670-design-front-middle-back-queue](https://github.com/vawnthais/Leetcode-solution/tree/master/1670-design-front-middle-back-queue) |
 ## Doubly-Linked List
 |  |
