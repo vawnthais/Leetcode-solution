@@ -92,6 +92,7 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vawnthais/Leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0147-insertion-sort-list](https://github.com/vawnthais/Leetcode-solution/tree/master/0147-insertion-sort-list) |
+| [0206-reverse-linked-list](https://github.com/vawnthais/Leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vawnthais/Leetcode-solution/tree/master/0328-odd-even-linked-list) |
 | [1670-design-front-middle-back-queue](https://github.com/vawnthais/Leetcode-solution/tree/master/1670-design-front-middle-back-queue) |
 ## Doubly-Linked List
@@ -137,4 +138,8 @@
 | [0459-repeated-substring-pattern](https://github.com/vawnthais/Leetcode-solution/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/vawnthais/Leetcode-solution/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/vawnthais/Leetcode-solution/tree/master/0796-rotate-string) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vawnthais/Leetcode-solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
