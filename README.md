@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vawnthais/Leetcode-solution/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/vawnthais/Leetcode-solution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vawnthais/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vawnthais/Leetcode-solution/tree/master/0056-merge-intervals) |
@@ -113,6 +114,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vawnthais/Leetcode-solution/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vawnthais/Leetcode-solution/tree/master/0049-group-anagrams) |
 ## Database
 |  |
