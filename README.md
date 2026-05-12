@@ -19,6 +19,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vawnthais/Leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vawnthais/Leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vawnthais/Leetcode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1590-make-sum-divisible-by-p](https://github.com/vawnthais/Leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1670-design-front-middle-back-queue](https://github.com/vawnthais/Leetcode-solution/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vawnthais/Leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/vawnthais/Leetcode-solution/tree/master/1732-find-the-highest-altitude) |
@@ -119,6 +120,7 @@
 | [0001-two-sum](https://github.com/vawnthais/Leetcode-solution/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vawnthais/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/vawnthais/Leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
+| [1590-make-sum-divisible-by-p](https://github.com/vawnthais/Leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
 ## Database
 |  |
 | ------- |
@@ -158,5 +160,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/vawnthais/Leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/vawnthais/Leetcode-solution/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
