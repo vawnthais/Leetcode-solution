@@ -21,6 +21,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vawnthais/Leetcode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1670-design-front-middle-back-queue](https://github.com/vawnthais/Leetcode-solution/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vawnthais/Leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1732-find-the-highest-altitude](https://github.com/vawnthais/Leetcode-solution/tree/master/1732-find-the-highest-altitude) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vawnthais/Leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
 ## Stack
 |  |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vawnthais/Leetcode-solution/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/vawnthais/Leetcode-solution/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
