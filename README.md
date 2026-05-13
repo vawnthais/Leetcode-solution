@@ -20,6 +20,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/vawnthais/Leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vawnthais/Leetcode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1590-make-sum-divisible-by-p](https://github.com/vawnthais/Leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
+| [1664-ways-to-make-a-fair-array](https://github.com/vawnthais/Leetcode-solution/tree/master/1664-ways-to-make-a-fair-array) |
 | [1670-design-front-middle-back-queue](https://github.com/vawnthais/Leetcode-solution/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vawnthais/Leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/vawnthais/Leetcode-solution/tree/master/1732-find-the-highest-altitude) |
@@ -161,5 +162,6 @@
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/vawnthais/Leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
+| [1664-ways-to-make-a-fair-array](https://github.com/vawnthais/Leetcode-solution/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/vawnthais/Leetcode-solution/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
